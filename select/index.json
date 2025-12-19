@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "＝（feat. YO_CO）",
+  "base_artist": "BAK",
+  "createdAt": "2025-12-19T07:10:54.631679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coffee Rumba (feat. YO-CO())",
+      "artist": "Yoko Oginome",
+      "has_synced": false,
+      "path": "select/01_Coffee_Rumba_(feat._YO-CO())_Yoko_Oginome.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ashes (feat. Eivør Pálsdóttir)",
+      "artist": "Bear McCreary",
+      "has_synced": true,
+      "path": "select/02_Ashes_(feat._Eivør_Pálsdóttir)_Bear_McCreary.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/03_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Symphony (feat. Zara Larsson)",
+      "artist": "Clean Bandit feat. Zara Larsson",
+      "has_synced": true,
+      "path": "select/04_Symphony_(feat._Zara_Larsson)_Clean_Bandit_feat._Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Symphony (feat. Zara Larsson)",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/05_Symphony_(feat._Zara_Larsson)_Clean_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Workers Song (feat. Seth Lakeman)",
+      "artist": "The Longest Johns feat. Seth Lakeman",
+      "has_synced": true,
+      "path": "select/06_The_Workers_Song_(feat._Seth_Lakeman)_The_Longest_Johns_feat._Seth_Lakeman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) [Duet Version]",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/07_Valhalla_Calling_(feat._Peyton_Parrish)_[Duet_Version]_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) (Duet Version)",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/08_Valhalla_Calling_(feat._Peyton_Parrish)_(Duet_Version)_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "11 Beers (feat. Jake Owen)",
+      "artist": "The Reklaws feat. Jake Owen",
+      "has_synced": true,
+      "path": "select/09_11_Beers_(feat._Jake_Owen)_The_Reklaws_feat._Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "11 Beers (feat. Jake Owen)",
+      "artist": "The Reklaws",
+      "has_synced": true,
+      "path": "select/10_11_Beers_(feat._Jake_Owen)_The_Reklaws.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After the Afterparty (feat. Lil Yachty) (Alan Walker Remix)",
+      "artist": "Charli XCX;Lil Yachty",
+      "has_synced": true,
+      "path": "select/11_After_the_Afterparty_(feat._Lil_Yachty)_(Alan_Walker_Remix)_Charli_XCX;Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows feat. Clairo",
+      "has_synced": true,
+      "path": "select/12_Are_You_Bored_Yet__(feat._Clairo)_Wallows_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows;Clairo",
+      "has_synced": true,
+      "path": "select/13_Are_You_Bored_Yet__(feat._Clairo)_Wallows;Clairo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/14_Are_You_Bored_Yet__(feat._Clairo)_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Are You Lonely (feat. ISÁK)",
+      "artist": "Steve Aoki feat. Alan Walker & Isak",
+      "has_synced": true,
+      "path": "select/15_Are_You_Lonely_(feat._ISÁK)_Steve_Aoki_feat._Alan_Walker_&_Isak.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bam Bam (feat. Ed Sheeran)",
+      "artist": "Camila Cabello feat. Ed Sheeran",
+      "has_synced": true,
+      "path": "select/16_Bam_Bam_(feat._Ed_Sheeran)_Camila_Cabello_feat._Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Body Language (feat. The Swon Brothers)",
+      "artist": "Blake Shelton feat. The Swon Brothers",
+      "has_synced": true,
+      "path": "select/17_Body_Language_(feat._The_Swon_Brothers)_Blake_Shelton_feat._The_Swon_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "=(feat. YO_CO)",
+      "artist": "BAK, YO_CO",
+      "has_synced": false,
+      "path": "select/pl_01_=(feat._YO_CO)_BAK,_YO_CO.txt"
+    }
+  ]
+}
